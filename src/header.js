@@ -18,6 +18,10 @@ const useStyle = makeStyles({
     font: "Roboto",
     paddingBottom: 80,
   },
+  Disclaimer: {
+    fontSize: 20,
+    verticalAlign: "text-bottom",
+  },
 });
 
 const Header = () => {
@@ -36,6 +40,13 @@ const Header = () => {
         <Typography className={classes.Typography}>
           {
             " Welcome to Duluth!! We here at ISS hope this website helps you find great places to either go get a bite to eat, relax with nature, or just enjoy the Duluth city! "
+          }
+        </Typography>
+      </Toolbar>
+      <Toolbar className={classes.root}>
+        <Typography>
+          {
+            "*Disclaimer:  these are places we've heard students enjoy, but is for information only.  ISS doesn't sponsor or receive sponsorship from any of these organizations."
           }
         </Typography>
       </Toolbar>
