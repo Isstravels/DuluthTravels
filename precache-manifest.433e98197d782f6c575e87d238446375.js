@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "948a7345643dab384b734b5c19ae7bc5",
+    "revision": "affe8d4757620027ad263224e437ef17",
     "url": "/DuluthTravels/index.html"
   },
   {
-    "revision": "b657258cc8f707b1d382",
+    "revision": "35421bccf61c02ab8efe",
     "url": "/DuluthTravels/static/css/main.1d75ce77.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DuluthTravels/static/js/2.9c62e41c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b657258cc8f707b1d382",
-    "url": "/DuluthTravels/static/js/main.ccc013a1.chunk.js"
+    "revision": "35421bccf61c02ab8efe",
+    "url": "/DuluthTravels/static/js/main.9d9f638a.chunk.js"
   },
   {
     "revision": "398d0ebeb05c4fc3426d",
