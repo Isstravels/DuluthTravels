@@ -31,7 +31,7 @@ const NavBar = () => {
       }}
     >
       <Toolbar>
-        <Typography className={classes.root}>IssTravels</Typography>
+        <Typography className={classes.root}>DuluthTravels</Typography>
         <Link href="https://www.facebook.com/ISSUMD">
           <IconButton>
             <FacebookIcon
@@ -43,7 +43,7 @@ const NavBar = () => {
             />
           </IconButton>
         </Link>
-        <Link href="https://www.facebook.com/ISSUMD">
+        <Link href="https://www.instagram.com/umd_iss/?hl=en">
           <IconButton>
             <InstagramIcon
               style={{
@@ -54,7 +54,7 @@ const NavBar = () => {
             />
           </IconButton>
         </Link>
-        <Link href="https://www.facebook.com/ISSUMD">
+        <Link href="https://www.d.umn.edu/international-student-services/">
           <IconButton>
             <WebIcon
               style={{

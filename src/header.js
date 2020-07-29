@@ -14,7 +14,8 @@ const useStyle = makeStyles({
     textAlign: "center",
     color: "white",
     variant: "overline",
-    fontSize: 60,
+    fontSize: 50,
+    font: "Roboto",
     paddingBottom: 80,
   },
 });
@@ -34,7 +35,7 @@ const Header = () => {
       <Toolbar className={classes.root}>
         <Typography className={classes.Typography}>
           {
-            " Welcome to Duluth! Hope this website helps you in finding out good places!"
+            " Welcome to Duluth!! We here at ISS hope this website helps you find great places to either go get a bite to eat, relax with nature, or just enjoy the Duluth city! "
           }
         </Typography>
       </Toolbar>
