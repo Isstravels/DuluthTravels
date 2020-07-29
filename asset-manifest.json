@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DuluthTravels/static/css/main.1d75ce77.chunk.css",
-    "main.js": "/DuluthTravels/static/js/main.0e9f9179.chunk.js",
-    "main.js.map": "/DuluthTravels/static/js/main.0e9f9179.chunk.js.map",
+    "main.js": "/DuluthTravels/static/js/main.ccc013a1.chunk.js",
+    "main.js.map": "/DuluthTravels/static/js/main.ccc013a1.chunk.js.map",
     "runtime-main.js": "/DuluthTravels/static/js/runtime-main.89f4918a.js",
     "runtime-main.js.map": "/DuluthTravels/static/js/runtime-main.89f4918a.js.map",
     "static/js/2.9c62e41c.chunk.js": "/DuluthTravels/static/js/2.9c62e41c.chunk.js",
     "static/js/2.9c62e41c.chunk.js.map": "/DuluthTravels/static/js/2.9c62e41c.chunk.js.map",
     "index.html": "/DuluthTravels/index.html",
-    "precache-manifest.a9c6764725305463a8f0cb5db5d847e4.js": "/DuluthTravels/precache-manifest.a9c6764725305463a8f0cb5db5d847e4.js",
+    "precache-manifest.acbb6aabc77f82209b72683a277f0984.js": "/DuluthTravels/precache-manifest.acbb6aabc77f82209b72683a277f0984.js",
     "service-worker.js": "/DuluthTravels/service-worker.js",
     "static/css/main.1d75ce77.chunk.css.map": "/DuluthTravels/static/css/main.1d75ce77.chunk.css.map",
     "static/js/2.9c62e41c.chunk.js.LICENSE.txt": "/DuluthTravels/static/js/2.9c62e41c.chunk.js.LICENSE.txt",
@@ -41,6 +41,6 @@
     "static/js/runtime-main.89f4918a.js",
     "static/js/2.9c62e41c.chunk.js",
     "static/css/main.1d75ce77.chunk.css",
-    "static/js/main.0e9f9179.chunk.js"
+    "static/js/main.ccc013a1.chunk.js"
   ]
 }

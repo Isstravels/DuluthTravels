@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DuluthTravels/precache-manifest.a9c6764725305463a8f0cb5db5d847e4.js"
+  "/DuluthTravels/precache-manifest.acbb6aabc77f82209b72683a277f0984.js"
 );
 
 self.addEventListener('message', (event) => {
