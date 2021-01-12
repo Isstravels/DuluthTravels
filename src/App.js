@@ -12,7 +12,7 @@ function App() {
         <NavBar />
       </Grid>
       <Grid item>
-        <Header />
+        <Header/>
       </Grid>
       <Grid item container>
         <Grid item xs={2} />
